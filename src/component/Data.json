@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "Name":"Wonder Women",
+        "phone":"0394829340",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "Name":"Batman",
+        "phone":"0394829340",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "Name":"Harley Quin",
+        "phone":"0394829340",
+        "Permission":1
+    },
+    {
+        "id":4,
+        "Name":"Superman",
+        "phone":"0394829340",
+        "Permission":2
+    },
+    {
+        "id":5,
+        "Name":"joker",
+        "phone":"0394829340",
+        "Permission":3
+    }
+]
